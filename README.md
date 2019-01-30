@@ -1,4 +1,4 @@
 # MyFirstGitProject
 
-Unity version 2018.2.14f1;
-Visual Studio Version?
+Unity Version: 2017.2.14f1;
+Visual Studio: ?
